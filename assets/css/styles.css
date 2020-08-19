@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto-Thin.ttf');
+  src: url('../fonts/Roboto-Thin.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family:  "Roboto", "Helvetica", Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+}
